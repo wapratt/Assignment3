@@ -1,4 +1,4 @@
-Year,Month,Index
+Year,Month,Value
 1950,1,-0.0603
 1950,2,0.6268
 1950,3,-0.0081
